@@ -1,5 +1,4 @@
 // A sprite for 2D shadow effects 
-// To support stencils, comment out the Stencil block and use the SpriteMask shader on objects that make this shader's material visible
 
 Shader "Sprites/Shadow"
 {
