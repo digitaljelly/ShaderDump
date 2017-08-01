@@ -1,5 +1,8 @@
 # ShaderDump
-Just a place to dump some shaders (Unity 5+)
+Just a place to dump some shaders (Unity 5+).
+Some of these are for undisclosed projects under NDAs, so I'm not able to include other source files.
+
+*This isn't an exhaustive list of shaders, just some ones I have lying around that I'm able to distribute*
 
 
 **Two-Paint Shader**
