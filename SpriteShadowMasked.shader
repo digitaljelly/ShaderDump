@@ -1,4 +1,6 @@
-Shader "Sprites/Boogie/SpriteShadowMasked"
+// A shader for 2D shadows that will mask with materials using the SpriteMask shader
+
+Shader "Sprites/ShadowMasked"
 {
 	Properties
 	{
