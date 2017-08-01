@@ -1,6 +1,7 @@
-// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+// A sprite for 2D shadow effects 
+// To support stencils, comment out the Stencil block and use the SpriteMask shader on objects that make this shader's material visible
 
-Shader "Sprites/Boogie/SpriteShadow"
+Shader "Sprites/Shadow"
 {
 	Properties
 	{
