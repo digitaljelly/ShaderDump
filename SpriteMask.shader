@@ -1,4 +1,4 @@
-﻿Shader "Sprites/Boogie/SpriteMask"
+﻿Shader "Sprites/SpriteMask"
 {
 	Properties
 	{
