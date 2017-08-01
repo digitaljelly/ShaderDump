@@ -1,4 +1,6 @@
-﻿Shader "Sprites/Boogie/SpriteMaskColorOff"
+// Same as SpriteMask, but this will remove the RGB values and simply run off a tinted alpha
+
+Shader "Sprites/SpriteMaskColorOff"
 {
 	Properties
 	{
